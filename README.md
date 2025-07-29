@@ -1,6 +1,6 @@
 # WebRTC Signaling Server for SmartFoxServer (SFS2X)
 
-![screenshot](Screenshot.png)
+![screenshot](screenshot.png)
 
 This project demonstrates a **Unity prefab** (C#) that integrates WebRTC in a mesh topology for multiplayer, combined with a **SmartFoxServer extension** that acts as the signaling server.  
 
